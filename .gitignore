@@ -1,0 +1,19 @@
+# Compilados de Maven
+target/
+*.jar
+
+# Base de datos H2 local
+data/
+*.mv.db
+*.trace.db
+
+# Variables de entorno y secretos
+.env
+*.env
+
+# Archivos de IDE y sistema
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
